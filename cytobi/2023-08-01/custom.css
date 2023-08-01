@@ -1,0 +1,27 @@
+.post {
+    font-family: 'Raleway', sans-serif;
+ }
+ 
+ .site-header__title {
+     font-family: 'Press Start 2P', Bookmania;
+ }
+ 
+ .site-header {
+    font-family: 'Raleway', sans-serif;
+ }
+ 
+ .site-header__avatar {
+     border-radius: 2%;
+ }
+ 
+ .pages-nav__item {
+     font-size: 25px;
+ }
+ 
+ .pages-nav__item--secondary {
+     font-size: 20px;
+ }
+ 
+ .site-search {
+     font-size: 20px;
+ }
